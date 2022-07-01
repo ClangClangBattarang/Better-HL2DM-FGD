@@ -1,3 +1,11 @@
+Better Half-Life 2: Deathmatch FGD's.
+
+This is intended to be a merge of mapper commentary from TeamSpen's, SE's variant, default FGDs, and anything I/we can add that'll be useful to know without an exceptionally high amount of Googling.
+
+WIP - This project is in an unsuitable state for mapping right now.
+
+---
+
 Notice: I am not currently working on this project anymore.
 
 This is a collection of brand new [FGD](https://developer.valvesoftware.com/wiki/FGD) files for Source engine games. FGD files tell Hammer what entities there are, and what settings, inputs, and outputs they have.
