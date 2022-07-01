@@ -4,7 +4,7 @@ This is intended to be a merge of mapper commentary from TeamSpen's, SE's varian
 
 **WIP** - This project is in an unsuitable state for mapping right now. While you can use it, I don't recommend doing so until a proper release is announced.
 
-(This is the readme from the original fork of SE's FGDs. I'm leaving this here, as it does give useful info.)
+(Below is the readme from the original fork of SE's FGDs. I'm leaving this here, as it does give useful info.)
 
 ---
 
