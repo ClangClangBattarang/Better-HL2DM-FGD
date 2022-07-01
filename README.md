@@ -7,23 +7,23 @@ This is intended to be a merge of mapper commentary from TeamSpen's, SE's varian
 ## Install Instructions
 
 1. **Download a copy of the repo.** Green Code Button > Download Zip
-2. Extract the .FGD files to where your current ones are located (likely in "C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2 Deathmatch\bin").
-3. In Hammer, go to Tools > Options.
+2. **Extract** the .FGD files to where your current ones are located (likely in "C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2 Deathmatch\bin").
+3. In Hammer, **navigate** to Tools > Options.
 4. In **Game Configurations**, select your Half-Life 2: Deathmatch configuration (called that), **remove all existing FGDs**. (Exception: For Hammer++, keep "hammerplusplus_fgd.fgd")
-5. Add all extracted FGDs to your configuration
-6. Click Ok to use these custom FGDs.
+5. **Add** all extracted FGDs to your configuration
+6. **Click Ok** to use these custom FGDs.
 
 ## Uninstall Instructions
 
 1. In **Hammer**, go to **Tools > Options**.
 2. **Remove all custom FGDs.** (Exception: For Hammer++, keep "hammerplusplus_fgd.fgd")
-3. Re-add the following vanilla FGDs to Hammer:
-	* base.fgd
-	* halflife2.fgd
-	* hl2mp.fgd
-4. Press Ok to reset your FGDs.
+3. **Re-add** the following vanilla FGDs to Hammer:
+	* `base.fgd`
+	* `halflife2.fgd`
+	* `hl2mp.fgd`
+4. **Press Ok** to reset your FGDs.
 
-(Below is the readme from the original fork of SE's FGDs. I'm leaving this here, as it does give useful info.)
+(Below is the readme from the original fork of SE's FGDs. I'm leaving it here, as it does give useful info.)
 
 ---
 
