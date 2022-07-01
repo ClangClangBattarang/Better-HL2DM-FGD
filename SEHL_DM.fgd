@@ -11,7 +11,7 @@
 //Wanna help me out? Search "TODO:" in this file.
 //Derivatives are allowed to be made and distributed.
 @include "SEHL_base.fgd"
-//@include "SEHL_HL2.fgd"
+@include "SEHL_HL2.fgd" // Was originally commented out; not sure why
 @mapsize(-16384, 16384)
 //SE ENTITIES
 @FilterClass base(CBaseFilter) iconsprite("editor/filter_team") color(248 155 0) = filter_activator_team : "Filter that checks which team a player is on."
