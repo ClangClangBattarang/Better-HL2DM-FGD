@@ -23,7 +23,7 @@ This is intended to be a merge of mapper commentary from TeamSpen's, SE's varian
 	* hl2mp.fgd
 4. Press Ok to reset your FGDs.
 
-(This is the readme from the original fork of SE's FGDs. I'm leaving this here, as it does give useful info.)
+(Below is the readme from the original fork of SE's FGDs. I'm leaving this here, as it does give useful info.)
 
 ---
 
