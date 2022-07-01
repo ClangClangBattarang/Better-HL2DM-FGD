@@ -1,8 +1,10 @@
-Better Half-Life 2: Deathmatch FGD's.
+# Better Half-Life 2: Deathmatch FGD's.
 
 This is intended to be a merge of mapper commentary from TeamSpen's, SE's variant, default FGDs, and anything I/we can add that'll be useful to know without an exceptionally high amount of Googling.
 
-WIP - This project is in an unsuitable state for mapping right now.
+**WIP** - This project is in an unsuitable state for mapping right now. While you can use it, I don't recommend doing so until a proper release is announced.
+
+(This is the readme from the original fork of SE's FGDs. I'm leaving this here, as it does give useful info.)
 
 ---
 
