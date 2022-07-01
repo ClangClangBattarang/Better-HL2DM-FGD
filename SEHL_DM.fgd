@@ -63,13 +63,13 @@
 	output PlayersInCount(integer) : "Fires when the CountPlayersInZone input is sent. Automatically puts the number of players inside the zone as the input parameter, unless overridden by the mapper."
 	output PlayersOutCount(integer) : "Fires when the CountPlayersInZone input is sent. Automatically puts the number of players outside the zone as the input parameter, unless overridden by the mapper."
 ]
-@PointClass base(CBaseEntity,Parent,Angles) studio("models/editor/playerstart.mdl") color(0 255 0) = info_player_combine : "When mp_teamplay 1, Combine players spawn here."
+@PointClass base(CBaseEntity,Parent,Angles) studio("models/police.mdl") color(0 255 0) = info_player_combine : "When mp_teamplay 1, Combine players spawn here."
 [
 ]
 @PointClass base(CBaseEntity,Parent,Angles) studio("models/editor/playerstart.mdl") color(0 255 0) = info_player_deathmatch : "It's a spot that a player can spawn at in teamless (FFA) deathmatch. It is also used when mp_teamplay 1 if no info_player_combines or info_player_rebels are found."
 [
 ]
-@PointClass base(CBaseEntity,Parent,Angles) studio("models/editor/playerstart.mdl") color(0 255 0) = info_player_rebel : "When mp_teamplay 1, Rebel players spawn here."
+@PointClass base(CBaseEntity,Parent,Angles) studio("models/humans/group03/female_01.mdl") color(0 255 0) = info_player_rebel : "When mp_teamplay 1, Rebel players spawn here."
 [
 ]
 @PointClass base(CBaseAnimating) studio("models/props_combine/suit_charger001.mdl") color(160 37 240) = item_suitcharger : "Combine power supply."
